@@ -14,5 +14,11 @@
     "type": "git",
     "url": "git+https://github.com/aether-winds/patrick-ortiz-portfolio.git"
   },
-  "license": "SEE LICENSE IN LICENSE"
+  "license": "SEE LICENSE IN LICENSE",
+  "workspaces": [
+    "site"
+  ],
+  "publishConfig": {
+    "@aether-winds:registry": "https://npm.pkg.github.com"
+  }
 }
