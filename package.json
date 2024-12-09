@@ -1,0 +1,14 @@
+{
+  "name": "patrick-ortiz-portfolio",
+  "version": "0.0.1-alpha",
+  "description": "Portfolio work for Patrick Ortiz",
+  "author": {
+    "name": "Patrick Ortiz",
+    "email": "pogithub+pzychotis@gmail.com",
+    "url": "https://github.com/aether-winds"
+  },
+  "bugs": {
+    "url": "https://github.com/aether-winds/patrick-ortiz-portfolio/issues"
+  },
+  "license": "SEE LICENSE IN LICENSE"
+}
