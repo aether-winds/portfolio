@@ -10,5 +10,9 @@
   "bugs": {
     "url": "https://github.com/aether-winds/patrick-ortiz-portfolio/issues"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aether-winds/patrick-ortiz-portfolio.git"
+  },
   "license": "SEE LICENSE IN LICENSE"
 }
